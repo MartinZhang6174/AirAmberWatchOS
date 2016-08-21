@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "e60b0a724063d7570734c4a6051e1596"
+build_time: [525030960, 750632000]
+inputs:
+  "/Users/martinzhang/Downloads/AirAber/Shared/Flight.swift": [494082961, 0]
+  "/Users/martinzhang/Downloads/AirAber/Watch Extension/ExtensionDelegate.swift": [524956795, 0]
+  "/Users/martinzhang/Downloads/AirAber/Watch Extension/ScheduleInterfaceController.swift": [525030960, 0]
+  "/Users/martinzhang/Downloads/AirAber/Watch Extension/FlightRowController.swift": [525030594, 0]
+  "/Users/martinzhang/Downloads/AirAber/Watch Extension/FlightInterfaceController.swift": [525030960, 0]

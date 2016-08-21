@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "efd19b1f8580fac3c19d2cced374111b"
+build_time: [524961589, 864407000]
+inputs:
+  "/Users/martinzhang/Downloads/AirAber/Shared/Flight.swift": [494082961, 0]
+  "/Users/martinzhang/Downloads/AirAber/AirAber/Vendor/QRCode/UIImageViewExtension.swift": [489754422, 0]
+  "/Users/martinzhang/Downloads/AirAber/AirAber/ViewController.swift": [492088410, 0]
+  "/Users/martinzhang/Downloads/AirAber/AirAber/AppDelegate.swift": [494502760, 0]
+  "/Users/martinzhang/Downloads/AirAber/AirAber/Vendor/QRCode/QRCode.swift": [493833445, 0]
